@@ -1,5 +1,5 @@
 sudo apt install snort
 
-snort
+sudo snort
 
-snort –d –v -e
+sudo snort –d –v -e
